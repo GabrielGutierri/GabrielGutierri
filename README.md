@@ -4,9 +4,9 @@ I am a Computer Engineering student fascinated by the programming Universe
 - 👀 I’m looking to collaborate on open-source projects and communities
 - :book: How to reach me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-gutierri-30a9a41b1/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/elgabrielidio/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/newguti453) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25px width= 100px/>](https://www.linkedin.com/in/gabriel-gutierri-30a9a41b1/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25px width= 100px>](https://www.instagram.com/elgabrielidio/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25px width= 100px/>](https://twitter.com/newguti453) 
 
 #### :rocket: Technologies
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
